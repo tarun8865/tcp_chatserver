@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-server",
+  "version": "1.0.0",
+  "description": "TCP Chat Server - Backend Assignment",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": [
+    "tcp",
+    "chat",
+    "server",
+    "socket"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
