@@ -2,6 +2,9 @@
 
 Simple TCP chat server built with Node.js. Uses only the standard library (no npm packages needed). Multiple users can connect, login with a username, and chat in real-time.
 
+# Video link
+https://drive.google.com/file/d/1JlR0C5IxTp-pQMCqSv66AFMW8bCcGakN/view?usp=drive_link
+
 ## Quick Start
 
 Make sure you have Node.js installed (v14+ should work fine).
